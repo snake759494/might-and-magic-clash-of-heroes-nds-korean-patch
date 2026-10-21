@@ -1,0 +1,5 @@
+ndspy
+py-desmume
+Pillow
+numpy
+capstone

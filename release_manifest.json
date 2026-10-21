@@ -1,0 +1,17 @@
+{
+  "game": "마이트 앤 매직: 클래시 오브 히어로즈 (Might & Magic: Clash of Heroes)",
+  "platform": "Nintendo DS",
+  "game_code": "CHNE",
+  "version": "1.0.0",
+  "tag": "v1.0.0",
+  "repository": "snake759494/might-and-magic-clash-of-heroes-nds-korean-patch",
+  "release_asset": {"name": "Clash_of_Heroes_KR.xdelta", "bytes": 378358, "sha256": "4575f586c970b0aa5633e78c73af5c22f13c862bef838577136229c3697d3dab"},
+  "source": {"name": "Might & Magic - Clash of Heroes (USA) (En,Fr,Es).nds", "bytes": 33554432, "sha256": "c2f47af33d2102985adb0925c4740e55080a8202389cfa8e3f67a53231a49011"},
+  "output": {"name": "Might & Magic - Clash of Heroes (Korean).nds", "bytes": 24845576, "sha256": "05547a842123cbb7c06a21c665b6480722f10b82221e68a61b1e2534979b0bfb"},
+  "xdelta_options": ["-0", "-S", "none"],
+  "reconstruction_matches": true,
+  "locale_slots": 2992,
+  "locale_unique_strings": 2757,
+  "locale_untranslated": 0,
+  "runtime_full_playthrough": false
+}

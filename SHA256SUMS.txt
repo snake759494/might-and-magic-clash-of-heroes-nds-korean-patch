@@ -1,0 +1,3 @@
+c2f47af33d2102985adb0925c4740e55080a8202389cfa8e3f67a53231a49011  Might & Magic - Clash of Heroes (USA) (En,Fr,Es).nds
+05547a842123cbb7c06a21c665b6480722f10b82221e68a61b1e2534979b0bfb  Might & Magic - Clash of Heroes (Korean).nds
+4575f586c970b0aa5633e78c73af5c22f13c862bef838577136229c3697d3dab  Clash_of_Heroes_KR.xdelta

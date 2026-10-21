@@ -1,0 +1,8 @@
+*.nds
+*.sav
+*.dsv
+*.xdelta
+__pycache__/
+work/
+translation/src/
+translation/gfx/
